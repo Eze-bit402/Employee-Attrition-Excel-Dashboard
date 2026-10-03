@@ -1,6 +1,6 @@
 # Employee Attrition Analysis Dashboard — Excel
 ## Project Overview
-This project analyzes employee attrition using Microsoft Excel. The goal was to identify patterns in employee turnover and provide insights that could help an HR team better understand where attrition is occurring.
+This project analyzes Employee Attrition using Microsoft Excel. The goal was to identify patterns in employee turnover and provide insights that could help an HR team better understand where attrition is occurring.
 The dataset contains information on 1,470 employees across 35 variables, including age, department, job role, monthly income, job satisfaction, overtime, and years at the company.
 ## Tools Used
 - Microsoft Excel
