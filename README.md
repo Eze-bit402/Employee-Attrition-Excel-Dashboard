@@ -9,6 +9,9 @@ The dataset contains information on 1,470 employees across 35 variables, includi
 - PivotCharts
 - Excel formulas
 - Data analysis and visualization
+## Project Files
+- Employee-Attrition-Excel-Dashboard.xlsx - Contains  the dataset, analysis, pivot tables, charts and dashboard.
+- Employee-Attrition-Dashboard.png- Preview of the completed dashboard.
 ## Key Analysis
 The analysis explored employee attrition across:
 - Department
@@ -28,11 +31,11 @@ The analysis explored employee attrition across:
 These findings describe patterns observed in the dataset and do not establish that any individual factor directly causes employee attrition.
 ## Dashboard
 The Excel dashboard summarizes the analysis using KPI cards, PivotCharts, and interactive visualizations.
+<img width="743" height="838" alt="Employee_Attrition_Dashboard" src="https://github.com/user-attachments/assets/a555c61d-91b8-4408-8f5e-3caf9241cff8" />
 ## Skills Demonstrated
 - Data preparation
 - Data cleaning and validation
 - Excel Tables
-- Calculated columns
 - PivotTables
 - Percentage analysis
 - Data visualization
