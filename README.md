@@ -31,6 +31,7 @@ The analysis explored employee attrition across:
 These findings describe patterns observed in the dataset and do not establish that any individual factor directly causes employee attrition.
 ## Dashboard
 The Excel dashboard summarizes the analysis using KPI cards, PivotCharts, and interactive visualizations.
+
 <img width="743" height="838" alt="Employee_Attrition_Dashboard" src="https://github.com/user-attachments/assets/a555c61d-91b8-4408-8f5e-3caf9241cff8" />
 ## Skills Demonstrated
 - Data preparation
